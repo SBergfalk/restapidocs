@@ -5,7 +5,7 @@
 Inspired by [@iros](https://github.com/iros)'s [documentation
 gist](https://gist.github.com/iros/3426278).
 
-Focus on using the templating Markdown to create comprehensive, structured and
+Focus on using the templating Markdown to complete, structured and
 helpful API documentation. Structure should be regular and repeated across
 endpoints and between projects.
 
@@ -19,5 +19,6 @@ Where possible this example comes from a real project.
 ## Free
 
 The code in this repository is not licensed in any way.
+You can use it anyway you like.
 
 Do what you want, [Unlicense dot org](http://unlicense.org/), spread the word.
